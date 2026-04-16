@@ -49,3 +49,4 @@ build/
 .dart_tool/
 .idea/
 *.log
+android/app/google-services.json
